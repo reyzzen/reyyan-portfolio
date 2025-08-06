@@ -13,3 +13,6 @@ node_modules/
 
 # Persönliche Dateien
 *.env
+
+# Damit ignoriert Git künftig alle temporären Word-Dateien, die mit ~$ beginnen
+~$*.docx
