@@ -1,0 +1,15 @@
+# VS Code Einstellungen nicht tracken
+.vscode/
+
+# Windows-typische Dateien ignorieren
+Thumbs.db
+Desktop.ini
+
+# Protokolldateien ignorieren
+*.log
+
+# Node-Module (falls du später mit Node arbeitest)
+node_modules/
+
+# Persönliche Dateien
+*.env
