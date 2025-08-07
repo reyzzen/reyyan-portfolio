@@ -15,10 +15,8 @@ Ich entwickle eine Datenbank zur Dokumentation von Ernährung, Sport, Gesundheit
 - Tabellenentwurf steht
 - Erste SQL-Tabelle lokal erstellt
 - Noch offen: Testdaten und erste Abfragen
+- fortlaufendes Projekt
 
 ## Dateien
 'tagebuch.sql' - aktueller SQL-Code
 'er-modell.png' - geplantes Datenmodell (folgt)
-
-
-+ Dieses Projekt wird laufend in meiner Freizeit erweitert.
